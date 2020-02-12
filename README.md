@@ -3,6 +3,7 @@
 Matlab Codes for the Estimation of a Random Coefficient Model for Multidimensional Panel Data created by Monika Avila Marquez 
 monika.avila@unige.ch
 
+This is a preliminary version, if you find any bug please contact me at monika.avila@unige.ch. 
 
 For theoretical background you can check: 
 
